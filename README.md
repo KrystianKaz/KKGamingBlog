@@ -30,7 +30,7 @@ http://kkgamingblog.alwaysdata.net
 # Technologies used across the project:
 Backend:
 - Java 17 <img width="23px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-- Spring Boot (web, HATEOAS, security, resilience4j, actuator, aop and few more) <img width="29px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
+- Spring Boot <img width="29px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"/>
 - Maven <img width="45px" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg"/>
 - Apache Tomcat <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png"/>
 - MySql <img width="39px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"/>
